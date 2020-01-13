@@ -20,8 +20,8 @@
 
 ## Result
 
-The sample running result of the program is shown below, or you can check the video file in the [Asset](./asset) for more details.
+The sample running result of the program is shown below, or you can check the video file in the [Asset](./Asset) for more details.
 
 <p align="center">
-<img src="Asset/sample.png" alt="Sample Result" width="500"/>
+<img src="./Asset/sample.PNG" alt="Sample Result" width="500"/>
 </p>
