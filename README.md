@@ -1,6 +1,7 @@
 # Bounce
 
 ## Introduction
+It's a 2-player bouncing ball game on STM32.
 
 ## Environment
 
@@ -15,8 +16,6 @@
 3. [FlyMcu.exe](http://www.mcuisp.com/software/FlyMcu.rar)
 
    FlyMcu is used to download the code to the board.
-
-## Design
 
 ## Result
 
